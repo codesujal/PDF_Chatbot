@@ -1,5 +1,10 @@
 ## PDF Chatbot
+Output:
+![1](/output/1.png)
+![2](/output/2.png)
+![3](/output/3.png)
 
+Diagram:
 ![Diagram](/diagram.png)
 
 ## How RAG works here:
